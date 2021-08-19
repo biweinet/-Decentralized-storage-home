@@ -2,7 +2,7 @@
 
 ## 1. Introduction
 
-With the launch of distributed storage projects such as Swarm, Filecoin and Crust, decentralized storage provides powerful data storage capability because of their practical utility, low cost, and information security mechanisms. This project was created to further expand the application of decentralized distributed storage. DSH¡¯s purpose is to establish an information and functional community which provides convenient and applicable toolset for miners, developers, and users to advance the application of decentralized storage ecosystems. There are three phrases to carry out the project. Phase 1: achieving SWARM network ¡¯s application functions; Phase 2: Supporting Crust network¡¯s application; Phase 3: realizing Filecoin network compatibility.
+With the launch of distributed storage projects such as Swarm, Filecoin and Crust, decentralized storage provides powerful data storage capability because of their practical utility, low cost, and information security mechanisms. This project was created to further expand the application of decentralized distributed storage. DSH's purpose is to establish an information and functional community which provides convenient and applicable toolset for miners, developers, and users to advance the application of decentralized storage ecosystems. There are three phrases to carry out the project. Phase 1: achieving SWARM network's application functions; Phase 2: Supporting Crust network's application; Phase 3: realizing Filecoin network compatibility.
 
 ## 2. Product Functionality
 

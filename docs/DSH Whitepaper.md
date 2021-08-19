@@ -1,4 +1,4 @@
-# ¡°Decentralized Storage Home"(DSH) - Whitepaper
+# "Decentralized Storage Home"(DSH) - Whitepaper
 
 ## 1. Introduction
 
@@ -48,23 +48,23 @@ Miner node registration function, uploads the network information of the relevan
 
 #### 2.5.2 Network Explorer
 
-- 1) Average bandwidth
+1. Average bandwidth
  Count the average upload and download bandwidth of the node group. Calculating the average value and recording the data at different time intervals. The recording cycle can be dynamically configured.
 
-- 2) The average number of files stored by the node
+2. The average number of files stored by the node
 The average number of file blocks stored and cached by a node.
 
-- 3) Storage utilization
+3. Storage utilization
 The ratio of the number of file blocks stored by the node to the storage capacity of the node. This data mainly presents the storage space utilization of the node.
 
-- 4) File transmission frequency
+4. File transmission frequency
 The transmission frequency of the file block of each node in a specific time period. Calculated as the ratio of the number of transmissions to the total storage value.
 
-- 5) Node revenue
+5. Node revenue
 The node's token revenue in the process of storing and transmitting files, including total revenue and unit file block revenue. (The reward of different documents is different, and the average reward needs to be calculated).
 
-- 6) File download/upload efficiency
+6. File download/upload efficiency
 The ratio of the number of upload/download file blocks (fixed size) to the required time (bandwidth data). Record this value over certain period of time and record average value of the whole network.
 
-- 7) Network Strength
+7. Network Strength
 Statistics of changes in the number of neighboring nodes of each node. In principle, the more neighboring nodes or the higher the number of neighbors, the more robust the network is.
